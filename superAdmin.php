@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Page</title>
+    <title>Super Admin Page</title>
 </head>
 <body>
-    <h1>Welcome to User Page</h1>
-    <p>This is the user dashboard.</p>
+    <h1>Welcome to Super Admin Page</h1>
+    <p>This is the super admin dashboard.</p>
 </body>
 </html>
